@@ -1,0 +1,80 @@
+html {
+  scroll-behavior: smooth;
+}
+.hero {
+  height: 100vh;
+}
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+.mainBackground {
+  width: 100%;
+  background-image: url("/images/TARTINE_ORANGE_2.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.mainText {
+  text-shadow: 1px 1px #494949;
+}
+
+.logoImage {
+  width: 12rem;
+}
+
+.scrollGif {
+  top: 90%;
+  left: 50%;
+}
+
+#leftBigPanel {
+  background-image: url("/images/Affiche_VCA.png");
+  background-position: center center;
+  background-size: cover;
+  transition: all 0.5s;
+}
+
+#chloePanel {
+  background-image: url("/images/visuel-carré-chloé.png");
+  background-position: center center;
+  background-size: cover;
+  transition: all 0.5s;
+}
+
+#palaisPanel {
+  background-image: url("/images/visuel-carré-palais-de-lélysée.png");
+  background-position: center center;
+  background-size: cover;
+  transition: all 0.5s;
+}
+
+#nationalePanel {
+  background-image: url("/images/visuel-carré-assemblée-naitonale.png");
+  background-position: center center;
+  background-size: cover;
+  transition: all 0.5s;
+}
+
+#chateauPanel {
+  background-image: url("/images/VERSAILLES-carre.jpg");
+  background-position: center center;
+  background-size: cover;
+  transition: all 0.5s;
+}
+
+#leftBigPanel:hover,
+#chloePanel:hover,
+#palaisPanel:hover,
+#nationalePanel:hover,
+#chateauPanel:hover {
+  transform: scale(1.1);
+  -webkit-filter: brightness(50%);
+}
