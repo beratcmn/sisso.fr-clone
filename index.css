@@ -16,7 +16,7 @@ html {
 
 .mainBackground {
   width: 100%;
-  background-image: url("/images/TARTINE_ORANGE_2.png");
+  background-image: url("./images/TARTINE_ORANGE_2.png");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -36,63 +36,63 @@ html {
 }
 
 #leftBigPanel {
-  background-image: url("/images/Affiche_VCA.png");
+  background-image: url("./images/Affiche_VCA.png");
   background-position: center center;
   background-size: cover;
   transition: all 0.5s;
 }
 
 #chloePanel {
-  background-image: url("/images/visuel-carré-chloé.png");
+  background-image: url("./images/visuel-carré-chloé.png");
   background-position: center center;
   background-size: cover;
   transition: all 0.5s;
 }
 
 #palaisPanel {
-  background-image: url("/images/visuel-carré-palais-de-lélysée.png");
+  background-image: url("./images/visuel-carré-palais-de-lélysée.png");
   background-position: center center;
   background-size: cover;
   transition: all 0.5s;
 }
 
 #nationalePanel {
-  background-image: url("/images/visuel-carré-assemblée-naitonale.png");
+  background-image: url("./images/visuel-carré-assemblée-naitonale.png");
   background-position: center center;
   background-size: cover;
   transition: all 0.5s;
 }
 
 #chateauPanel {
-  background-image: url("/images/VERSAILLES-carre.jpg");
+  background-image: url("./images/VERSAILLES-carre.jpg");
   background-position: center center;
   background-size: cover;
   transition: all 0.5s;
 }
 
 #maisonPanel {
-  background-image: url("/images/Martin-Margiela.png");
+  background-image: url("./images/Martin-Margiela.png");
   background-position: center center;
   background-size: cover;
   transition: all 0.5s;
 }
 
 #louvrePanel {
-  background-image: url("/images/LOUVRE-carre-1.png");
+  background-image: url("./images/LOUVRE-carre-1.png");
   background-position: center center;
   background-size: cover;
   transition: all 0.5s;
 }
 
 #beauxPanel {
-  background-image: url("/images/BEAUX-ARTS-DE-PARIS-carré.png");
+  background-image: url("./images/BEAUX-ARTS-DE-PARIS-carré.png");
   background-position: center center;
   background-size: cover;
   transition: all 0.5s;
 }
 
 #ceaPanel {
-  background-image: url("/images/CEA-carre.jpg");
+  background-image: url("./images/CEA-carre.jpg");
   background-position: center center;
   background-size: cover;
   transition: all 0.5s;
@@ -116,7 +116,7 @@ html {
 }
 
 #servicesPart {
-  background-image: url("/images/tartine_rouge.png");
+  background-image: url("./images/tartine_rouge.png");
   background-position: center center;
   background-size: contain;
   transform: scale(1.1);
@@ -138,107 +138,111 @@ html {
 }
 
 #customerPanel1 {
-  background-image: url("/images/Logo-science-po-carré.png");
+  background-image: url("./images/Logo-science-po-carré.png");
   background-position: center center;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 #customerPanel2 {
-  background-image: url("/images/logo_og.png");
+  background-image: url("./images/logo_og.png");
   background-position: center center;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 #customerPanel3 {
-  background-image: url("/images/vca.png");
+  background-image: url("./images/vca.png");
   background-position: center center;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 #customerPanel4 {
-  background-image: url("/images/EDF-logo-carré.png");
+  background-image: url("./images/EDF-logo-carré.png");
   background-position: center center;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 #customerPanel5 {
-  background-image: url("/images/PINAULT-carre.png");
+  background-image: url("./images/PINAULT-carre.png");
   background-position: center center;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 #customerPanel6 {
-  background-image: url("/images/FHC-logo-carre.png");
+  background-image: url("./images/FHC-logo-carre.png");
   background-position: center center;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 #customerPanel7 {
-  background-image: url("/images/REED-EXHIBITIONS-logo-carre.png");
+  background-image: url("./images/REED-EXHIBITIONS-logo-carre.png");
   background-position: center center;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 #customerPanel8 {
-  background-image: url("/images/RAFFLES-logo-carre.png");
+  background-image: url("./images/RAFFLES-logo-carre.png");
   background-position: center center;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 #customerPanel9 {
-  background-image: url("/images/Pernod_Ricard_logo.png");
+  background-image: url("./images/Pernod_Ricard_logo.png");
   background-position: center center;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 #customerPanel10 {
-  background-image: url("/images/MINISTERE-DES-ARMEES-logo-carre.png");
+  background-image: url("./images/MINISTERE-DES-ARMEES-logo-carre.png");
   background-position: center center;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 #customerPanel11 {
-  background-image: url("/images/inserm_couleur.png");
+  background-image: url("./images/inserm_couleur.png");
   background-position: center center;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 #customerPanel12 {
-  background-image: url("/images/logo_four_season-copie.png");
+  background-image: url("./images/logo_four_season-copie.png");
   background-position: center center;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 #facebookLogo {
-  background-image: url("/images/facebook.png");
+  background-image: url("./images/facebook.png");
   background-position: center center;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 #instagramLogo {
-  background-image: url("/images/instagram.png");
+  background-image: url("./images/instagram.png");
   background-position: center center;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
-.w-101{
+.w-101 {
   width: 42rem;
 }
 
-.ml-68{
+.ml-68 {
   margin-left: 17rem;
+}
+
+.unClickableText {
+  pointer-events: none;
 }
